@@ -29,6 +29,10 @@ Dex Tab Swift mirrors your applications from your **real Android phone** 📱 to
 - 🤖 An **Android** phone (USB cable or same Wi-Fi network)
 - ✅ Your apps stay installed on the phone — Dex Tab Swift installs nothing on it
 
+## 🙏 Credits
+
+Dex Tab Swift is built on the **official [scrcpy](https://github.com/Genymobile/scrcpy)** by Genymobile, the reference tool for Android screen mirroring — used **unmodified**, wrapped in a multi-instance control panel, alongside Android's official ADB.
+
 ## ⬇️ Get it
 
 👉 **[dextabswift.github.io](https://dextabswift.github.io/)** — presentation and download.
