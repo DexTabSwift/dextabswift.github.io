@@ -41,6 +41,16 @@ Dex Tab Swift mirrors your applications from your **real Android phone** 📱 to
 
 ![Windows panel](panneau-fenetres.jpg)
 
+## ☕ Support the project
+
+Dex Tab Swift is **free**. If it helps you, you can support its development with a crypto donation:
+
+- 💵 **USDT — TRON network (TRC20)** : `TNCFvYtPy2Q6P2nxfoQgqa1ANLMZhVqLK7`
+
+![USDT TRC20 QR code](qr-usdt.png)
+
+⚠️ Send **only USDT via the TRON (TRC20) network** to this address.
+
 ## 🙏 Credits
 
 Dex Tab Swift is built on the **official [scrcpy](https://github.com/Genymobile/scrcpy)** by Genymobile, the reference tool for Android screen mirroring — used **unmodified**, wrapped in a multi-instance control panel, alongside Android's official ADB.
