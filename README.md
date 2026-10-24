@@ -6,11 +6,11 @@ Dex Tab Swift mirrors your applications from your **real Android phone** 📱 to
 
 🌐 **Live site: [dextabswift.github.io](https://dextabswift.github.io/)**
 
-![Four Android apps running on one PC screen](grille.jpg)
+![Four Android apps running on one PC screen](assets/grille.jpg)
 
 ## 🎬 Watch the demo
 
-[![Watch the Dex Tab Swift demo — 1 minute, English voiceover](poster-demo.jpg)](https://dextabswift.github.io/dex-tab-swift-demo.mp4)
+[![Watch the Dex Tab Swift demo — 1 minute, English voiceover](assets/poster-demo.jpg)](https://dextabswift.github.io/media/dex-tab-swift-demo.mp4)
 
 **1 minute, English voiceover** — click the image to play. Also on the [website](https://dextabswift.github.io/#video).
 
@@ -41,11 +41,11 @@ Dex Tab Swift mirrors your applications from your **real Android phone** 📱 to
 
 **Devices — your phone and your apps, one panel**
 
-![Devices panel](panneau-appareils.jpg)
+![Devices panel](assets/panneau-appareils.jpg)
 
 **Windows — how your apps are arranged and displayed**
 
-![Windows panel](panneau-fenetres.jpg)
+![Windows panel](assets/panneau-fenetres.jpg)
 
 ## ☕ Support the project
 
@@ -54,7 +54,7 @@ Dex Tab Swift is **free**. If it helps you, you can support its development:
 - 💛 **Liberapay** (by card) : [liberapay.com/Deaa](https://liberapay.com/Deaa/)
 - 💵 **USDT — TRON network (TRC20)** : `TNCFvYtPy2Q6P2nxfoQgqa1ANLMZhVqLK7`
 
-![USDT TRC20 QR code](qr-usdt.png)
+![USDT TRC20 QR code](assets/qr-usdt.png)
 
 ⚠️ Send **only USDT via the TRON (TRC20) network** to this address.
 
