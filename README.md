@@ -51,9 +51,7 @@ Dex Tab Swift mirrors your applications from your **real Android phone** 📱 to
 
 Dex Tab Swift is **free**. If it helps you, you can support its development:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/deaa900579)
-
-- ☕ **Ko-fi** (by card) : [ko-fi.com/deaa900579](https://ko-fi.com/deaa900579)
+- 💛 **Liberapay** (by card) : [liberapay.com/Deaa](https://liberapay.com/Deaa/)
 - 💵 **USDT — TRON network (TRC20)** : `TNCFvYtPy2Q6P2nxfoQgqa1ANLMZhVqLK7`
 
 ![USDT TRC20 QR code](qr-usdt.png)
