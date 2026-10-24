@@ -6,6 +6,8 @@ Dex Tab Swift mirrors your applications from your **real Android phone** 📱 to
 
 🌐 **Live site: [dextabswift.github.io](https://dextabswift.github.io/)**
 
+![Four Android apps running on one PC screen](grille.jpg)
+
 ---
 
 ## 🖥️ Display modes
@@ -28,6 +30,16 @@ Dex Tab Swift mirrors your applications from your **real Android phone** 📱 to
 - 🪟 A PC running **Windows**
 - 🤖 An **Android** phone (USB cable or same Wi-Fi network)
 - ✅ Your apps stay installed on the phone — Dex Tab Swift installs nothing on it
+
+## 📸 Screenshots
+
+**Devices — your phone and your apps, one panel**
+
+![Devices panel](panneau-appareils.jpg)
+
+**Windows — how your apps are arranged and displayed**
+
+![Windows panel](panneau-fenetres.jpg)
 
 ## 🙏 Credits
 
