@@ -8,6 +8,8 @@ Dex Tab Swift mirrors your applications from your **real Android phone** 📱 to
 
 ![Four Android apps running on one PC screen](grille.jpg)
 
+🎬 **Watch the demo (1 min, English voiceover) :** [dex-tab-swift-demo.mp4](dex-tab-swift-demo.mp4) — or play it on the [website](https://dextabswift.github.io/#video).
+
 ---
 
 ## 🖥️ Display modes
