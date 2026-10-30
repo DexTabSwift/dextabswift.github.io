@@ -47,6 +47,10 @@ Dex Tab Swift mirrors your applications from your **real Android phone** 📱 to
 
 ![Windows panel](assets/panneau-fenetres.jpg)
 
+**Shortcuts — keyboard shortcuts and mouse, including Right click = Back**
+
+![Shortcuts panel](assets/panneau-raccourcis.jpg)
+
 ## ☕ Support the project
 
 Dex Tab Swift is **free**. If it helps you, you can support its development:
