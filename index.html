@@ -46,10 +46,16 @@
     display:grid;place-items:center;box-shadow:0 4px 16px rgba(255,119,0,.5);flex:none}
   .logo-mark svg{width:19px;height:19px}
   .logo em{font-style:normal;color:var(--accent)}
-  .nav-links{display:flex;gap:26px;margin-left:auto;color:var(--muted);font-size:14.5px;font-weight:600}
+  .nav-links{display:flex;gap:18px;margin-left:auto;color:var(--muted);font-size:14.5px;font-weight:600}
   .nav-links a:hover{color:var(--text)}
+  .nav-social{display:flex;gap:8px;margin-left:14px}
+  .nav-social a{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);border-radius:999px;padding:7px 13px;font-size:13.5px;font-weight:700;color:var(--muted);white-space:nowrap}
+  .nav-social a:hover{border-color:var(--accent);color:var(--text)}
+  .nav-social .yt-dot{width:18px;height:13px;border-radius:3px;background:#FF0000;display:inline-grid;place-items:center;flex:none}
+  .nav-social .yt-dot::after{content:"";border-left:5px solid #fff;border-top:3.5px solid transparent;border-bottom:3.5px solid transparent;margin-left:1px}
   .nav-cta{margin-left:8px;padding:10px 20px;font-size:14px}
-  @media(max-width:820px){.nav-links{display:none}}
+  @media(max-width:1080px){.nav-links{display:none}}
+  @media(max-width:560px){.nav-social{display:none}}
 
   /* ---------- Hero ---------- */
   .hero{padding:76px 0 30px;display:grid;grid-template-columns:1fr 1.15fr;gap:48px;align-items:center}
@@ -292,6 +298,10 @@
       <a href="#features" data-i18n="features">Fonctionnalités</a>
       <a href="#interface" data-i18n="nav_interface">Interface</a>
       <a href="#start" data-i18n="nav_start">Démarrer</a>
+    </div>
+    <div class="nav-social">
+      <a href="https://github.com/DexTabSwift/dextabswift.github.io" target="_blank" rel="noopener">GitHub&nbsp;↗</a>
+      <a href="https://www.youtube.com/watch?v=M4qCnnvCpV8" target="_blank" rel="noopener"><span class="yt-dot" aria-hidden="true"></span>YouTube&nbsp;↗</a>
     </div>
     <div class="lang-sw" role="group" aria-label="Language"><button type="button" data-lang="fr" class="on">FR</button><button type="button" data-lang="en">EN</button><button type="button" data-lang="es">ES</button><button type="button" data-lang="ru">RU</button></div>
     <a class="btn nav-cta" href="#download" data-i18n="nav_dl">Télécharger</a>
@@ -553,7 +563,7 @@
         Dex<em>Tab</em> Swift
       </a>
       <span>Dex Tab Swift - Multi-instance</span>
-      <span class="foot-links"><a href="https://github.com/DexTabSwift/dextabswift.github.io" target="_blank" rel="noopener">GitHub&nbsp;↗</a><a href="https://www.youtube.com/@laptop40FPS" target="_blank" rel="noopener">YouTube&nbsp;↗</a></span>
+      <span class="foot-links"><a href="https://github.com/DexTabSwift/dextabswift.github.io" target="_blank" rel="noopener">GitHub&nbsp;↗</a><a href="https://www.youtube.com/watch?v=M4qCnnvCpV8" target="_blank" rel="noopener">YouTube&nbsp;↗</a></span>
       <span class="r" data-i18n="foot_rights">© 2026 Deaa — Tous droits réservés</span>
     </div>
   </footer>
