@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.3
+
+- Security hardening: update manifest pinned to the official site host, with optional signature check; settings import now shows a preview and lets you choose what to import; zone input re-validates the foreground after each step; closing a keymap ends any active gesture; an unknown Android user is refused instead of passing; keeper locks are per phone with a bounded release; sessions stop in parallel within a bounded shutdown; orphan cleanup compares canonical paths only; diagnostic reports mask bare transport serials.
+- Upstream fixes: thermal readings ignore stale values with a 5 °C hysteresis; a refused input injection is re-checked after 30 seconds.
+- Licence unchanged, still signed for Deaa and verified at startup.
+- No settings changes: older settings files keep loading as they are.
+
 ## 2.2
 
 - Mouse: new global option "Right-click sends Back", with a single switch shared by the Windows tab and the Shortcuts tab. Off by default: right-click sends nothing. Shift + right-click always sends Back.
